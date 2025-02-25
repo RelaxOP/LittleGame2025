@@ -1,0 +1,16 @@
+{
+"companyName": "Ricky2025",
+"productName": "LittleGame2025WebGL",
+"productVersion": "1.1",
+"dataUrl": "LittleGame202502WebGL.data.unityweb",
+"wasmCodeUrl": "LittleGame202502WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "LittleGame202502WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.26f1"
+}
